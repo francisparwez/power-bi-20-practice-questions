@@ -1,0 +1,156 @@
+OrderID,OrderDate,CustomerName,City,Category,Product,Quantity,UnitPrice,Sales,Profit,PaymentMethod,Salesperson
+ORD0082,2025-08-25,Areeba Malik,Lahore,Home Appliances,Blender,5,6800.0,34000.0,6824.0,EasyPaisa,Ayesha Malik
+ORD0143,2026-03-09,Iqra Khan,Quetta,Electronics,USB-C Hub,5,3350.0,16750.0,1352.0,EasyPaisa,Ayesha Malik
+ORD0032,2025-06-11,Saad Ahmed,Multan,Home Appliances,Air Fryer,1,13180.0,13180.0,3938.0,JazzCash,Sara Khan
+ORD0030,2025-02-11,Maham Khan,Faisalabad,Electronics,USB-C Hub,3,3120.0,9360.0,1295.0,Debit Card,Sara Khan
+ORD0119,2025-09-25,Sara Ahmed,Islamabad,Electronics,Power Bank,3,3020.0,9060.0,1834.0,EasyPaisa,Sara Khan
+ORD0061,2026-06-19,Danish Iqbal,Multan,Home Appliances,Air Fryer,5,14150.0,70750.0,16635.0,Debit Card,Hassan Raza
+ORD0094,2026-07-17,Ali Raza,Lahore,Home Appliances,Air Fryer,4,14520.0,58080.0,7744.0,EasyPaisa,Sara Khan
+ORD0148,2026-07-31,Raza Hussain,Lahore,Sports,Yoga Mat,1,2710.0,2710.0,810.0,Debit Card,Ayesha Malik
+ORD0092,2026-09-02,Nida Aslam,Multan,Home Appliances,Microwave Oven,3,23610.0,70830.0,18399.0,Debit Card,Sara Khan
+ORD0069,2026-03-30,Zainab Ali,Quetta,Furniture,Desk Lamp,2,3440.0,6880.0,1430.0,EasyPaisa,Ayesha Malik
+ORD0043,2025-04-10,Iqra Khan,Multan,Sports,Yoga Mat,2,2710.0,5420.0,961.0,Cash,Hassan Raza
+ORD0139,2025-07-06,Danish Iqbal,Rawalpindi,Sports,Football,3,3120.0,9360.0,1449.0,Cash,Fatima Ali
+ORD0079,2025-07-28,Iqra Khan,Islamabad,Home Appliances,Microwave Oven,5,24110.0,120550.0,22709.0,Debit Card,Bilal Ahmed
+ORD0076,2025-04-17,Maham Khan,Quetta,Electronics,Power Bank,5,2880.0,14400.0,3702.0,Bank Transfer,Ayesha Malik
+ORD0016,2026-01-24,Hamza Saeed,Islamabad,Furniture,Study Table,4,14570.0,58280.0,16289.0,EasyPaisa,Ahmed Khan
+ORD0020,2025-08-17,Ali Raza,Islamabad,Furniture,Office Chair,2,18010.0,36020.0,3290.0,EasyPaisa,Ayesha Malik
+ORD0031,2026-04-30,Omar Farooq,Rawalpindi,Furniture,Bookshelf,2,11640.0,23280.0,5166.0,JazzCash,Bilal Ahmed
+ORD0091,2026-07-06,Nida Aslam,Peshawar,Furniture,Office Chair,3,18090.0,54270.0,9241.0,EasyPaisa,Ayesha Malik
+ORD0118,2025-11-13,Danish Iqbal,Islamabad,Electronics,USB-C Hub,2,3430.0,6860.0,1165.0,Debit Card,Hassan Raza
+ORD0138,2025-06-12,Nida Aslam,Islamabad,Furniture,Study Table,3,15990.0,47970.0,4228.0,,Fatima Ali
+ORD0019,2026-01-26,Ali Raza,Faisalabad,Electronics,Bluetooth Speaker,4,4270.0,17080.0,3983.0,Cash,Ahmed Khan
+ORD0013,2026-08-02,Maryam Noor,Peshawar,Furniture,Office Chair,2,16290.0,32580.0,3380.0,Cash,Fatima Ali
+ORD0010,2025-10-20,Raza Hussain,Faisalabad,Home Appliances,Air Fryer,3,15100.0,45300.0,10889.0,Credit Card,Ayesha Malik
+ORD0025,2025-01-06,Ali Raza,Quetta,Furniture,Coffee Table,2,15350.0,30700.0,5945.0,EasyPaisa,Fatima Ali
+ORD0070,2025-03-10,Sara Ahmed,Quetta,Furniture,Desk Lamp,5,3170.0,15850.0,2581.0,Cash,Bilal Ahmed
+ORD0132,2025-08-09,Saad Ahmed,Islamabad,Clothing,Jeans,5,3390.0,16950.0,2667.0,Credit Card,Ahmed Khan
+ORD0096,2025-11-29,Ali Raza,Karachi,Clothing,Formal Shirt,2,2750.0,5500.0,608.0,Debit Card,Sara Khan
+ORD0046,2025-10-20,Iqra Khan,Multan,Home Appliances,Blender,2,7490.0,14980.0,2759.0,JazzCash,Ayesha Malik
+ORD0087,2026-06-25,Ali Raza,Faisalabad,Clothing,Men's T-Shirt,1,1700.0,1700.0,258.0,Bank Transfer,Ahmed Khan
+ORD0085,2025-11-12,Usman Tariq,Peshawar,Clothing,Sneakers,2,6820.0,13640.0,1201.0,Debit Card,Sara Khan
+ORD0127,2026-09-06,Areeba Malik,Faisalabad,Sports,Running Shoes,1,7150.0,7150.0,1724.0,Cash,Hassan Raza
+ORD0097,2025-12-04,Omar Farooq,Quetta,Furniture,Office Chair,5,19190.0,95950.0,28047.0,Debit Card,Ahmed Khan
+ORD0123,2026-01-03,Nida Aslam,Karachi,Electronics,Bluetooth Speaker,5,4320.0,21600.0,6235.0,Credit Card,Sara Khan
+ORD0083,2025-02-20,Hamza Saeed,Multan,Electronics,Bluetooth Speaker,5,4340.0,21700.0,2177.0,EasyPaisa,Bilal Ahmed
+ORD0110,2026-01-10,Nida Aslam,Peshawar,Clothing,Sneakers,1,6280.0,6280.0,933.0,JazzCash,Ahmed Khan
+ORD0066,2025-01-16,Zainab Ali,Quetta,Electronics,Power Bank,3,3020.0,9060.0,815.0,EasyPaisa,Fatima Ali
+ORD0052,2026-04-06,Nida Aslam,Quetta,Home Appliances,Electric Kettle,5,6010.0,30050.0,6027.0,Debit Card,Ahmed Khan
+ORD0027,2025-09-15,Usman Tariq,Quetta,Home Appliances,Air Fryer,1,13520.0,13520.0,3754.0,EasyPaisa,Ahmed Khan
+ORD0134,2025-11-30,Hamza Saeed,Peshawar,Sports,Dumbbell Set,3,9210.0,27630.0,3042.0,Cash,Fatima Ali
+ORD0077,2026-03-27,Sara Ahmed,Rawalpindi,Clothing,Jeans,2,3420.0,6840.0,1206.0,Cash,Sara Khan
+ORD0057,2025-04-23,Omar Farooq,Lahore,Sports,Dumbbell Set,5,9000.0,45000.0,11417.0,Credit Card,Sara Khan
+ORD0037,2026-05-25,Danish Iqbal,Karachi,Clothing,Hoodie,2,4510.0,9020.0,2534.0,Bank Transfer,Hassan Raza
+ORD0125,2025-03-20,Maham Khan,Lahore,Furniture,Coffee Table,2,14070.0,28140.0,3314.0,JazzCash,Ayesha Malik
+ORD0023,2025-12-16,Usman Tariq,Peshawar,Sports,Running Shoes,4,7240.0,28960.0,3720.0,Debit Card,Fatima Ali
+ORD0056,2025-04-13,Areeba Malik,Karachi,Home Appliances,Air Fryer,2,14880.0,29760.0,5317.0,Bank Transfer,Bilal Ahmed
+ORD0086,2025-01-19,Maryam Noor,Karachi,Furniture,Coffee Table,5,15030.0,75150.0,11867.0,JazzCash,Fatima Ali
+ORD0012,2026-04-11,Usman Tariq,Karachi,Furniture,Coffee Table,3,14170.0,42510.0,6982.0,JazzCash,Ayesha Malik
+ORD0142,2025-10-03,Nida Aslam,Rawalpindi,Home Appliances,Vacuum Cleaner,1,17650.0,17650.0,3275.0,Cash,Ayesha Malik
+ORD0067,2025-11-16,Sara Ahmed,Rawalpindi,Home Appliances,Vacuum Cleaner,2,16880.0,33760.0,6145.0,,Hassan Raza
+ORD0120,2025-01-11,Zainab Ali,,Furniture,Coffee Table,4,14470.0,57880.0,7241.0,Cash,Hassan Raza
+ORD0028,2025-06-16,Maryam Noor,Faisalabad,Furniture,Office Chair,5,17220.0,86100.0,12672.0,Cash,Fatima Ali
+ORD0080,2025-12-30,Hina Shah,Quetta,Furniture,Office Chair,3,16700.0,50100.0,11072.0,Cash,Bilal Ahmed
+ORD0145,2026-01-19,Maham Khan,Peshawar,Home Appliances,Air Fryer,2,15360.0,30720.0,4208.0,EasyPaisa,Bilal Ahmed
+ORD0042,2026-04-23,Omar Farooq,,Furniture,Office Chair,3,17780.0,53340.0,5188.0,Cash,Fatima Ali
+ORD0005,2025-12-16,Omar Farooq,Lahore,Clothing,Sneakers,1,7110.0,7110.0,1833.0,Bank Transfer,Fatima Ali
+ORD0033,2025-11-02,Omar Farooq,Peshawar,Furniture,Coffee Table,1,15270.0,15270.0,2333.0,Debit Card,Fatima Ali
+ORD0135,2025-07-23,Hamza Saeed,Lahore,Furniture,Desk Lamp,1,3610.0,3610.0,839.0,Cash,Fatima Ali
+ORD0144,2026-08-12,Talha Raza,Karachi,Home Appliances,Blender,5,6810.0,34050.0,2858.0,Cash,Fatima Ali
+ORD0068,2026-04-10,Areeba Malik,Quetta,Electronics,USB-C Hub,3,3330.0,9990.0,1977.0,JazzCash,Hassan Raza
+ORD0017,2026-02-19,Hamza Saeed,Multan,Home Appliances,Vacuum Cleaner,1,17300.0,17300.0,2011.0,JazzCash,Ahmed Khan
+ORD0124,2026-07-10,Sara Ahmed,Faisalabad,Furniture,Office Chair,2,16280.0,32560.0,4529.0,Cash,Ahmed Khan
+ORD0011,2025-02-21,Danish Iqbal,Peshawar,Electronics,USB-C Hub,1,3280.0,3280.0,501.0,EasyPaisa,Hassan Raza
+ORD0114,2025-03-08,Saad Ahmed,Quetta,Home Appliances,Electric Kettle,1,5560.0,5560.0,1498.0,Cash,Ahmed Khan
+ORD0147,2026-05-25,Usman Tariq,Quetta,Furniture,Desk Lamp,2,3180.0,6360.0,1046.0,EasyPaisa,Hassan Raza
+ORD0102,2025-10-20,Hina Shah,Multan,Furniture,Bookshelf,2,11130.0,22260.0,5669.0,Debit Card,Fatima Ali
+ORD0001,2025-05-06,Usman Tariq,Peshawar,Home Appliances,Vacuum Cleaner,3,19010.0,57030.0,12051.0,Debit Card,Bilal Ahmed
+ORD0111,2026-08-02,Hina Shah,Karachi,Sports,Yoga Mat,2,2650.0,5300.0,429.0,Credit Card,Bilal Ahmed
+ORD0065,2026-02-10,Talha Raza,Karachi,Home Appliances,Vacuum Cleaner,4,18190.0,72760.0,21337.0,Cash,Sara Khan
+ORD0045,2025-04-08,Iqra Khan,Multan,Sports,Yoga Mat,5,2310.0,11550.0,1041.0,Bank Transfer,Hassan Raza
+ORD0098,2026-07-30,Maryam Noor,Faisalabad,Clothing,Sneakers,3,5940.0,17820.0,4331.0,Debit Card,Ahmed Khan
+ORD0029,2026-05-23,Maryam Noor,Quetta,Electronics,USB-C Hub,1,3200.0,3200.0,382.0,Debit Card,
+ORD0041,2025-09-30,Sara Ahmed,Rawalpindi,Sports,Dumbbell Set,3,8730.0,26190.0,6279.0,Credit Card,Sara Khan
+ORD0105,2025-05-14,Raza Hussain,Peshawar,Sports,Cricket Bat,5,8510.0,42550.0,10165.0,Debit Card,
+ORD0026,2025-07-31,Usman Tariq,Rawalpindi,Sports,Cricket Bat,3,8440.0,25320.0,3579.0,EasyPaisa,Ahmed Khan
+ORD0024,2026-04-22,Sara Ahmed,Peshawar,Home Appliances,Electric Kettle,1,5390.0,5390.0,1045.0,EasyPaisa,Ayesha Malik
+ORD0109,2026-02-15,Ali Raza,Multan,Electronics,Smart Watch,5,7830.0,39150.0,10371.0,JazzCash,Hassan Raza
+ORD0040,2026-09-16,Omar Farooq,Peshawar,Furniture,Coffee Table,5,14060.0,70300.0,17533.0,Bank Transfer,Sara Khan
+ORD0035,2025-10-19,Talha Raza,Multan,Clothing,Jeans,3,3550.0,10650.0,1080.0,Credit Card,Bilal Ahmed
+ORD0099,2026-01-18,Iqra Khan,Lahore,Sports,Dumbbell Set,3,7930.0,23790.0,6167.0,EasyPaisa,Fatima Ali
+ORD0013,2026-08-02,Maryam Noor,Peshawar,Furniture,Office Chair,2,16290.0,32580.0,3380.0,Cash,Fatima Ali
+ORD0137,2026-04-26,Sara Ahmed,Peshawar,Clothing,Formal Shirt,1,2820.0,2820.0,297.0,EasyPaisa,Fatima Ali
+ORD0048,2026-01-19,Ali Raza,Karachi,Home Appliances,Blender,1,8050.0,8050.0,1771.0,JazzCash,Bilal Ahmed
+ORD0112,2025-07-02,Maham Khan,Quetta,Clothing,Jeans,3,3670.0,11010.0,1976.0,Cash,Fatima Ali
+ORD0062,2026-04-05,Saad Ahmed,Peshawar,Sports,Football,4,3040.0,12160.0,2955.0,Cash,Ahmed Khan
+ORD0074,2025-06-07,Zainab Ali,Lahore,Electronics,Wireless Headphones,2,6320.0,12640.0,1327.0,EasyPaisa,Sara Khan
+ORD0034,2025-09-17,Usman Tariq,Quetta,Electronics,USB-C Hub,5,3130.0,15650.0,4182.0,Credit Card,Ahmed Khan
+ORD0149,2025-05-04,Saad Ahmed,Peshawar,Clothing,Men's T-Shirt,3,1910.0,5730.0,741.0,Cash,Ahmed Khan
+ORD0126,2026-01-17,Areeba Malik,Peshawar,Home Appliances,Electric Kettle,2,5560.0,11120.0,2483.0,JazzCash,Ayesha Malik
+ORD0063,2026-01-08,Hamza Saeed,Quetta,Furniture,Desk Lamp,4,3820.0,15280.0,2483.0,Cash,Sara Khan
+ORD0106,2025-01-15,Iqra Khan,Lahore,Home Appliances,Microwave Oven,2,20910.0,41820.0,6526.0,EasyPaisa,Sara Khan
+ORD0095,2025-01-14,Omar Farooq,Peshawar,Sports,Running Shoes,4,7230.0,28920.0,6092.0,Credit Card,Fatima Ali
+ORD0054,2025-03-07,Hina Shah,Quetta,Sports,Yoga Mat,3,2300.0,6900.0,1922.0,Cash,Sara Khan
+ORD0006,2025-03-26,Hina Shah,Lahore,Home Appliances,Microwave Oven,5,23470.0,117350.0,13864.0,Bank Transfer,Ayesha Malik
+ORD0128,2026-07-16,Maryam Noor,Lahore,Clothing,Formal Shirt,1,2950.0,2950.0,485.0,Bank Transfer,Sara Khan
+ORD0115,2025-10-16,Ali Raza,Faisalabad,Sports,Running Shoes,3,7950.0,23850.0,3741.0,JazzCash,Sara Khan
+ORD0050,2025-04-04,Nida Aslam,Faisalabad,Clothing,Formal Shirt,3,3070.0,9210.0,1419.0,Credit Card,Ayesha Malik
+ORD0036,2025-09-07,Maryam Noor,Peshawar,Clothing,Jeans,2,3670.0,7340.0,1713.0,JazzCash,Ayesha Malik
+ORD0081,2025-02-24,Usman Tariq,Faisalabad,Furniture,Bookshelf,5,13140.0,65700.0,13956.0,JazzCash,Ayesha Malik
+ORD0078,2025-05-22,Nida Aslam,Karachi,Electronics,USB-C Hub,2,3430.0,6860.0,1982.0,Credit Card,Ahmed Khan
+ORD0035,2025-10-19,Talha Raza,Multan,Clothing,Jeans,3,3550.0,10650.0,1080.0,Credit Card,Bilal Ahmed
+ORD0047,2026-03-22,Maryam Noor,Karachi,Clothing,Formal Shirt,4,2730.0,10920.0,1774.0,JazzCash,Hassan Raza
+ORD0008,2025-02-26,Nida Aslam,Lahore,Home Appliances,Electric Kettle,5,5380.0,26900.0,3758.0,Cash,Fatima Ali
+ORD0044,2025-09-08,Usman Tariq,Rawalpindi,Sports,Yoga Mat,5,2620.0,13100.0,2646.0,Credit Card,Bilal Ahmed
+ORD0071,2026-04-10,Ali Raza,Lahore,Sports,Football,1,3280.0,3280.0,870.0,Cash,Bilal Ahmed
+ORD0113,2025-06-09,Sara Ahmed,Faisalabad,Sports,Yoga Mat,1,2640.0,2640.0,372.0,Cash,Ahmed Khan
+ORD0092,2026-09-02,Nida Aslam,Multan,Home Appliances,Microwave Oven,3,23610.0,70830.0,18399.0,Debit Card,Sara Khan
+ORD0084,2025-09-14,,Peshawar,Sports,Yoga Mat,2,2680.0,5360.0,528.0,EasyPaisa,Sara Khan
+ORD0140,2026-03-06,Areeba Malik,Multan,Sports,Yoga Mat,5,2560.0,12800.0,3519.0,Credit Card,Bilal Ahmed
+ORD0141,2026-02-24,Maryam Noor,Islamabad,Clothing,Jeans,3,3760.0,11280.0,2215.0,Debit Card,Sara Khan
+ORD0090,2026-08-09,Danish Iqbal,Quetta,Sports,Cricket Bat,1,8530.0,8530.0,873.0,Bank Transfer,Sara Khan
+ORD0009,2025-03-10,Hamza Saeed,Peshawar,Home Appliances,Microwave Oven,5,20420.0,102100.0,26187.0,Cash,Ahmed Khan
+ORD0014,2025-06-24,Saad Ahmed,Rawalpindi,Sports,Dumbbell Set,5,8070.0,40350.0,6871.0,JazzCash,Bilal Ahmed
+ORD0060,2025-11-27,Hamza Saeed,Faisalabad,Furniture,Desk Lamp,1,3770.0,3770.0,498.0,Bank Transfer,Fatima Ali
+ORD0133,2026-04-27,Maham Khan,Lahore,Furniture,Bookshelf,2,12720.0,25440.0,5923.0,Bank Transfer,Bilal Ahmed
+ORD0004,2025-05-15,Omar Farooq,Islamabad,Home Appliances,Air Fryer,4,14540.0,58160.0,12233.0,JazzCash,Ahmed Khan
+ORD0018,2026-09-04,,Karachi,Furniture,Study Table,4,14230.0,56920.0,6661.0,Bank Transfer,Ahmed Khan
+ORD0039,2025-11-05,Hina Shah,Lahore,Electronics,Bluetooth Speaker,5,4810.0,24050.0,6476.0,EasyPaisa,Sara Khan
+ORD0073,2025-01-05,Usman Tariq,Faisalabad,Clothing,Jeans,3,3320.0,9960.0,1784.0,JazzCash,Fatima Ali
+ORD0136,2025-01-20,Danish Iqbal,Karachi,Furniture,Study Table,1,16330.0,16330.0,1448.0,Credit Card,Hassan Raza
+ORD0007,2025-06-15,Zainab Ali,Multan,Clothing,Sneakers,5,7110.0,35550.0,8906.0,Bank Transfer,Sara Khan
+ORD0129,2025-02-02,Omar Farooq,Islamabad,Furniture,Office Chair,3,16530.0,49590.0,12379.0,Debit Card,Fatima Ali
+ORD0101,2026-09-12,Nida Aslam,Islamabad,Electronics,Wireless Headphones,1,6310.0,6310.0,1048.0,Debit Card,Sara Khan
+ORD0003,2026-07-19,Raza Hussain,Islamabad,Sports,Yoga Mat,4,2560.0,10240.0,835.0,Credit Card,Fatima Ali
+ORD0121,2026-06-02,Ali Raza,Peshawar,Furniture,Desk Lamp,3,3560.0,10680.0,1845.0,JazzCash,Fatima Ali
+ORD0064,2025-06-02,Maryam Noor,Multan,Sports,Football,4,3290.0,13160.0,2663.0,JazzCash,Bilal Ahmed
+ORD0116,2025-07-17,Maham Khan,Rawalpindi,Furniture,Study Table,1,15830.0,15830.0,2845.0,Cash,Ayesha Malik
+ORD0055,2025-08-25,Usman Tariq,Rawalpindi,Sports,Running Shoes,3,7330.0,21990.0,1812.0,Cash,Fatima Ali
+ORD0108,2025-05-11,Zainab Ali,Karachi,Home Appliances,Microwave Oven,4,23840.0,95360.0,24204.0,Bank Transfer,Ayesha Malik
+ORD0051,2026-05-20,Sara Ahmed,Faisalabad,Clothing,Jeans,3,3350.0,10050.0,1065.0,Debit Card,Hassan Raza
+ORD0058,2026-08-15,Hamza Saeed,Lahore,Clothing,Formal Shirt,3,3230.0,9690.0,1523.0,Credit Card,Fatima Ali
+ORD0059,2025-07-17,Omar Farooq,Faisalabad,Electronics,Power Bank,5,2640.0,13200.0,2208.0,JazzCash,Sara Khan
+ORD0049,2025-02-16,Areeba Malik,Faisalabad,Furniture,Desk Lamp,4,3420.0,13680.0,3987.0,JazzCash,Fatima Ali
+ORD0089,2025-10-13,Maryam Noor,Lahore,Home Appliances,Air Fryer,2,13870.0,27740.0,4435.0,Debit Card,Bilal Ahmed
+ORD0022,2025-05-28,Ali Raza,Karachi,Sports,Dumbbell Set,2,8730.0,17460.0,3455.0,Bank Transfer,Bilal Ahmed
+ORD0058,2026-08-15,Hamza Saeed,Lahore,Clothing,Formal Shirt,3,3230.0,9690.0,1523.0,Credit Card,Fatima Ali
+ORD0150,2026-06-29,Hamza Saeed,Islamabad,Home Appliances,Vacuum Cleaner,2,17850.0,35700.0,5928.0,Cash,Ayesha Malik
+ORD0130,2026-02-14,Omar Farooq,Quetta,Electronics,Smart Watch,3,9260.0,27780.0,4647.0,Cash,Ayesha Malik
+ORD0038,2025-12-24,Sara Ahmed,Quetta,Home Appliances,Electric Kettle,4,5930.0,23720.0,2042.0,EasyPaisa,Bilal Ahmed
+ORD0146,2026-08-11,Hina Shah,Faisalabad,Sports,Football,1,3150.0,3150.0,297.0,EasyPaisa,Hassan Raza
+ORD0002,2026-05-11,Iqra Khan,Multan,Sports,Dumbbell Set,3,7680.0,23040.0,6759.0,Credit Card,Fatima Ali
+ORD0053,2025-07-13,Maryam Noor,Faisalabad,Furniture,Coffee Table,2,13300.0,26600.0,5525.0,Bank Transfer,Ahmed Khan
+ORD0131,2026-05-26,Saad Ahmed,Islamabad,Home Appliances,Microwave Oven,3,22420.0,67260.0,6142.0,Credit Card,Ahmed Khan
+ORD0104,2025-06-12,Talha Raza,Rawalpindi,Clothing,Formal Shirt,3,3150.0,9450.0,970.0,JazzCash,Fatima Ali
+ORD0100,2025-10-26,Nida Aslam,Multan,Electronics,Power Bank,2,2740.0,5480.0,1423.0,Debit Card,Hassan Raza
+ORD0117,2026-04-07,Usman Tariq,Multan,Furniture,Coffee Table,1,13540.0,13540.0,1308.0,Credit Card,Fatima Ali
+ORD0088,2025-08-20,Talha Raza,Multan,Home Appliances,Blender,3,7720.0,23160.0,4296.0,Credit Card,Ahmed Khan
+ORD0075,2026-01-28,Iqra Khan,Multan,Furniture,Bookshelf,2,12850.0,25700.0,5176.0,Debit Card,Ahmed Khan
+ORD0122,2026-06-20,Omar Farooq,Faisalabad,Furniture,Study Table,2,14590.0,29180.0,2554.0,EasyPaisa,Sara Khan
+ORD0129,2025-02-02,Omar Farooq,Islamabad,Furniture,Office Chair,3,16530.0,49590.0,12379.0,Debit Card,Fatima Ali
+ORD0021,2026-03-19,Raza Hussain,Quetta,Sports,Dumbbell Set,2,9330.0,18660.0,2486.0,Debit Card,Ahmed Khan
+ORD0072,2026-03-17,Danish Iqbal,Faisalabad,Electronics,Power Bank,4,2980.0,11920.0,3575.0,JazzCash,Hassan Raza
+ORD0107,2025-08-02,Hamza Saeed,Karachi,Clothing,Hoodie,4,4550.0,18200.0,2013.0,Bank Transfer,Bilal Ahmed
+ORD0015,2025-02-01,Areeba Malik,Rawalpindi,Furniture,Coffee Table,2,14350.0,28700.0,4163.0,Bank Transfer,Sara Khan
+ORD0093,2025-10-31,Omar Farooq,Multan,Electronics,Bluetooth Speaker,3,,,,Credit Card,Sara Khan
+ORD0103,2025-10-20,Iqra Khan,Rawalpindi,Sports,Yoga Mat,1,2600.0,2600.0,653.0,EasyPaisa,Ayesha Malik
