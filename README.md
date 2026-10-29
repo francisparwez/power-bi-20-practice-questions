@@ -36,7 +36,7 @@ The dataset is intentionally raw and includes missing values and duplicate recor
 
 ### Level 1 — Power BI Basics
 
-- [ ] **1. Import the data:** Load the CSV into Power BI Desktop, inspect its columns and data types, and identify any incorrect data types.
+- [x] **1. Import the data:** Imported `dataset/sales-raw-data.csv` into Power BI Desktop and inspected all 12 columns and their data types. `OrderID` is Text, `OrderDate` is Date, descriptive columns are Text, `Quantity` is Whole Number, and `UnitPrice`, `Sales`, and `Profit` are Whole Number. No data type errors were shown in Power Query.
 - [ ] **2. Check for missing values:** Find columns containing null values, count the missing values, and decide how to handle them.
 - [ ] **3. Remove duplicate orders:** Check for duplicate records and duplicate `OrderID` values. Investigate them and remove duplicates where appropriate.
 - [ ] **4. Total sales card:** Create a Card visual showing total sales. What is the total revenue?
