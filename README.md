@@ -36,10 +36,10 @@ The dataset is intentionally raw and includes missing values and duplicate recor
 
 ### Level 1 — Power BI Basics
 
-- [x] **1. Import the data:** Imported `dataset/sales-raw-data.csv` into Power BI Desktop and inspected all 12 columns and their data types. `OrderID` is Text, `OrderDate` is Date, descriptive columns are Text, `Quantity` is Whole Number, and `UnitPrice`, `Sales`, and `Profit` are Whole Number. No data type errors were shown in Power Query.
+- [x] **1. Import the data:** Imported `dataset/sales-raw-data.csv` into Power BI Desktop and inspected all 12 columns and their data types. `OrderID` is Text, `OrderDate` is Date, descriptive columns are Text, and `Quantity` is Whole Number. The numeric fields were checked, and `Sales` was set to Decimal Number in the model after it was found to be Text. No data type errors were shown in Power Query.
 - [x] **2. Check for missing values:** Used Power Query Column Quality and Column Profile to inspect missing values across the dataset. The `City` column showed 1% empty values; replaced blank text values (`""`) with `Unknown` using Replace Values, then verified that the column showed 100% valid values with no remaining empty values. The screenshots show the percentage, not an exact missing-row count.
 - [x] **3. Remove duplicate orders:** Used Power Query Group By on `OrderID` with Count Rows and filtered for counts greater than 1 to identify 5 duplicated `OrderID` values, each occurring twice. Removed the duplicate orders and verified the cleaned `OrderID` column using Column Quality and Column Profile: 149 distinct values, 149 unique values, 100% valid, and 0% errors or empty values.
-- [ ] **4. Total sales card:** Create a Card visual showing total sales. What is the total revenue?
+- [x] **4. Total sales card:** Created a Card visual using `Sales` with the aggregation set to Sum. Changed the `Sales` column from Text to Decimal Number so it could be aggregated, then formatted the result as PKR currency. The Card displays approximately **Rs3.84M** in total sales.
 - [ ] **5. Total profit card:** Create a Card visual showing total profit.
 - [ ] **6. Total quantity card:** Create a Card visual showing the total number of units sold.
 - [ ] **7. Total orders card:** Create a Card visual showing the number of unique orders using `OrderID`.
