@@ -8,6 +8,7 @@ A beginner-friendly Power BI project for practising data cleaning, basic calcula
 power-bi-20-practice-questions/
 ├── dataset/
 │   └── sales-raw-data.csv
+├── power-bi-20-practice-questions.pbix
 └── README.md
 ```
 
@@ -41,7 +42,7 @@ The dataset is intentionally raw and includes missing values and duplicate recor
 - [x] **3. Remove duplicate orders:** Used Power Query Group By on `OrderID` with Count Rows and filtered for counts greater than 1 to identify 5 duplicated `OrderID` values, each occurring twice. Removed the duplicate orders and verified the cleaned `OrderID` column using Column Quality and Column Profile: 149 distinct values, 149 unique values, 100% valid, and 0% errors or empty values.
 - [x] **4. Total sales card:** Created a Card visual using `Sales` with the aggregation set to Sum. Changed the `Sales` column from Text to Decimal Number so it could be aggregated, then formatted the result as PKR currency. The Card displays approximately **Rs3.84M** in total sales.
 - [x] **5. Total profit card:** Created a Card visual using `Profit` with the aggregation set to Sum and formatted the result as PKR currency. The Card displays approximately **Rs720.25K** in total profit.
-- [ ] **6. Total quantity card:** Create a Card visual showing the total number of units sold.
+- [x] **6. Total quantity card:** Created a Card visual using `Quantity` with the aggregation set to Sum. Confirmed that the column uses the Whole Number data type and renamed the visual label to `Total Quantity`. The Card displays **434** total units sold.
 - [ ] **7. Total orders card:** Create a Card visual showing the number of unique orders using `OrderID`.
 - [ ] **8. Average order value:** Calculate the average amount spent per order.
 
